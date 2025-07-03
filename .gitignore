@@ -1,0 +1,2 @@
+.env
+.env.*         # optional: ignore .env.development, .env.production etc.
