@@ -26,7 +26,7 @@ const userSchema = new mongoose.Schema(
       default: "customer",
     },
   },
-  { timestamps: true }
+  { timestamps: true },
 );
 
 // Password Hash middleware
